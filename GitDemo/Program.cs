@@ -12,7 +12,7 @@ namespace GitDemo
         {
             Console.WriteLine("first update....");
             Console.ReadLine();
-            Console.WriteLine("Some locally changes...");
+            Console.WriteLine("Some remote changes...");
         }
     }
 }
