@@ -13,6 +13,8 @@ namespace GitDemo
             Console.WriteLine("first update....");
             Console.ReadLine();
             Console.WriteLine("Some remote changes...");
+            
+            Console.WriteLine("Some changes with subBranch...");
         }
     }
 }
